@@ -4,7 +4,11 @@ The application is a client for Youtube channel and allows you to quickly and ea
 The application uses the following items
 
 1) Navigation Drawer
+
 2) YouTube Data API (v3)
+
 3) Configuring network requests using the json library and volley
+
 4) RecyclerView
+
 5) SnackBar
