@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">VideoViewer</string>
+    <string name="youtube_apikey">AIzaSyCPYQnz_F0BSouLBPZwOmpPeXtPCaR4PWA</string>
+    <string name="googleplay_url">https://play.google.com/store/apps/details?id="name of package"</string>
+    <string name="banner_ad_id"></string>
+    <string name="interstitial_ad_id"></string>
+
+    <string-array name="channel_names">
+        <item>New Video</item>
+        <item>Java for beginners</item>
+        <item>Android Studio</item>
+        <item>Android Design</item>
+        <item>Developer Tools</item>
+        <item>Game Dev</item>
+        <item>Eclipse</item>
+    </string-array>
+
+    <string-array name="video_types">
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="channel_id">
+        <item>UCzE7HcbvyEiS5ea1rVRbPLQ</item>
+        <item>PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd</item>
+        <item>PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK</item>
+        <item>PLyfVjOYzujugPnav0g4l0GGOPbj_vUf93</item>
+        <item>PLyfVjOYzujugEUT-7gYhONqB5Y1xszpCq</item>
+        <item>PLyfVjOYzujuisikez6McGsBtKviTa_lty</item>
+        <item>PLyfVjOYzujuhLNi-AxZsW0idLj9ZChDf0</item>
+    </string-array>
+
+    <string name="about">About</string>
+
+    <string name="no_result">Video offline</string>
+    <string name="no_internet_connection">Check the Internet connection</string>
+    <string name="response_error">Connection Time Out or Server Under Maintenance</string>
+    <string name="error_player">Error initializing YouTube player (%1$s)</string>
+
+    <string name="retry">Repeat</string>
+
+    <string name="date_util_term_less">more</string>
+
+    <string name="date_util_unit_minute">minutes</string>
+    <string name="date_util_unit_minuta">minute</string>
+    <string name="date_util_unit_minutes">minutes</string>
+    <string name="date_util_unit_hour">hours</string>
+    <string name="date_util_unit_hours">hours</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_daya">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">of the month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">of the year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">more</string>
+    <string name="date_util_prefix_almost">about</string>
+
+    <string name="date_util_suffix">ago</string>
+
+    <string name="pref_share_key">prefShareKey</string>
+    <string name="pref_rate_review_key">prefRateReviewKey</string>
+
+    <string name="pref_app_title">About</string>
+    <string name="pref_app_summary">The application is a client for Youtube channel</string>
+    <string name="pref_version_title">Build version</string>
+    <string name="pref_version_summary">1.0</string>
+    <string name="pref_developer_title">Developer</string>
+    <string name="pref_developer_summary">My client app</string>
+    <string name="pref_share_title">Share</string>
+    <string name="pref_share_summary">Let your friends know about this app</string>
+    <string name="pref_rate_review_title">Apprise</string>
+    <string name="pref_rate_review_summary">Please rate the app and leave feedback on Google Play</string>
+
+    <string name="share_to">Share</string>
+    <string name="subject">I recommend this application</string>
+    <string name="message">You can download the app for Android in </string>
+
+    <string name="new_videos">New video tutorials</string>
+</resources>
