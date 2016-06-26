@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VideoViewer.iml" filepath="$PROJECT_DIR$/VideoViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YoutubeClient.iml" filepath="$PROJECT_DIR$/YoutubeClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

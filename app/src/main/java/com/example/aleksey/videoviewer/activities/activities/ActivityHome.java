@@ -84,7 +84,7 @@ public final class ActivityHome extends AppCompatActivity implements YouTubePlay
 
         AccountHeader accountHeader = new AccountHeaderBuilder()
                 .withActivity(this)
-                .withHeaderBackground(R.drawable.header)
+                .withHeaderBackground(R.drawable.main_icon)
                 .build();
 
         drawer = new DrawerBuilder(this)
