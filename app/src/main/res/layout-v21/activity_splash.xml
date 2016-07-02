@@ -8,12 +8,14 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
+        android:elevation="10dp"
         android:layout_centerInParent="true"
         android:src="@drawable/main_icon"
         android:id="@+id/imageView" />
 
     <TextView
         android:layout_width="wrap_content"
+        android:elevation="10dp"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/krokosha_video"

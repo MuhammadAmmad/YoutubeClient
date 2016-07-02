@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">VideoViewer</string>
+    <string name="app_name">Android Уроки</string>
     <string name="youtube_apikey">AIzaSyCPYQnz_F0BSouLBPZwOmpPeXtPCaR4PWA</string>
-    <string name="googleplay_url">https://play.google.com/store/apps/details?id="name of package"</string>
-    <string name="banner_ad_id"></string>
-    <string name="interstitial_ad_id"></string>
+    <string name="googleplay_url">https://play.google.com/store/apps/details?id=com.krokosha.videoviewer</string>
+    <string name="banner_ad_id">ca-app-pub-3020919922659594/1045727062</string>
+    <string name="interstitial_ad_id">ca-app-pub-3020919922659594/2522460261</string>
 
     <string-array name="channel_names">
         <item>New Video</item>
@@ -69,11 +69,11 @@
     <string name="pref_rate_review_key">prefRateReviewKey</string>
 
     <string name="pref_app_title">About</string>
-    <string name="pref_app_summary">The application is a client for Youtube channel</string>
+    <string name="pref_app_summary">The application is a client for Youtube channel. Content from StartAndroid chanel</string>
     <string name="pref_version_title">Build version</string>
     <string name="pref_version_summary">1.0</string>
     <string name="pref_developer_title">Developer</string>
-    <string name="pref_developer_summary">My client app</string>
+    <string name="pref_developer_summary">Krakosha</string>
     <string name="pref_share_title">Share</string>
     <string name="pref_share_summary">Let your friends know about this app</string>
     <string name="pref_rate_review_title">Apprise</string>
@@ -84,4 +84,5 @@
     <string name="message">You can download the app for Android in </string>
 
     <string name="new_videos">New video tutorials</string>
+    <string name="krokosha_video">Krokosha Video</string>
 </resources>

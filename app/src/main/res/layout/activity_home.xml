@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.activities.ActivityHome">
+    tools:context=".activities.ActivityHome">
 
     <include layout="@layout/toolbar"/>
 
@@ -19,7 +19,7 @@
             android:id="@+id/frame_container">
 
             <fragment
-                class="com.example.aleksey.videoviewer.activities.fragments.FragmentVideo"
+                class="com.krokosha.videoviewer.fragments.FragmentVideo"
                 android:id="@+id/video_fragment_container"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
@@ -33,7 +33,5 @@
             </FrameLayout>
 
         </RelativeLayout>
-
     </FrameLayout>
-
 </RelativeLayout>
